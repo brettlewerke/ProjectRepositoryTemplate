@@ -1,0 +1,1 @@
+All general documentation for the solution, including architectural diagrams, instructions on developer setup, and other common team routines lives here.
